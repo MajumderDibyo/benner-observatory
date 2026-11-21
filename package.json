@@ -1,0 +1,17 @@
+{
+  "name": "benner-observatory",
+  "version": "0.1.0",
+  "private": true,
+  "description": "A local research workspace for market facts and Benner cycle hypotheses.",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "test": "node --test"
+  },
+  "dependencies": {
+    "next": "^15",
+    "react": "^19",
+    "react-dom": "^19"
+  }
+}
